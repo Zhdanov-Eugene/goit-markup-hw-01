@@ -1,5 +1,3 @@
-# goit-markup-hw-01
-
-d/z №1
-
+# goit-markup-hw-
+Домашнее задание #1
 html markup
